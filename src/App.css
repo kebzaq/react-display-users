@@ -1,0 +1,15 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+  background-color: #bdc7be;
+  border-radius: 15px;
+}
+ul {
+  margin: 0;
+  padding: 0;
+  list-style-position: inside;
+  text-align: left;
+  padding-left: 120px;
+}
